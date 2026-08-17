@@ -7,7 +7,7 @@ This was made as an academic project for DigiPen's AY2025/T1 term.
 
 ## Gameplay Video
 
-[Video coming soon]
+https://github.com/user-attachments/assets/69e5334a-4c1e-4e8e-bc26-b4b0919fc8b9
 
 ## Download & Play
 
