@@ -25,7 +25,8 @@ Controls are displayed in the top-right of the screen after DigiPen and the game
 ## Tech Stack
 
 - **Language:** C
-- **Framework:** [DigiPen's CProcessing](https://github.com/DigiPen-Faculty/CProcessing)
+- **Framework:** DigiPen's CProcessing (https://github.com/DigiPen-Faculty/CProcessing)
+- **Audio:** FMOD
 
 ## Save Data
 
